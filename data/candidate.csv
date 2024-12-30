@@ -1,0 +1,71 @@
+mpid,icsd_ids,formula,Materials Project Eg,ALIGNN MBJ Eg,ALIGNN OPT Eg,synthesized?,ss synthesized?,doi,comment
+mp-778430,[],K8Al2O7,2.2214,5.786653996,3.031459332,n,n,,
+mp-1209712,[],Pr5Ge3O13,0,5.459430695,3.800394058,n,n,,
+mp-1101401,[],RbPrO2,3.3978,4.948358536,3.59693718,n,n,,
+mp-771208,[],Ba5(Ga3O7)2,2.7217,4.855867386,3.018531084,n,n,,
+mp-753783,[],Li5InO4,2.6407,4.649766445,3.087204933,n,n,,
+mp-772408,[],Ba4Tm6O13,2.529,4.446304321,3.083752632,n,n,,
+mp-1208410,[],TbMoO5,2.335,4.000572681,2.606150627,n,n,,
+mp-1210263,[],Np(MoO4)2,0.4279,3.857991934,3.493144751,n,n,,
+mp-756935,[],Li3SbO3,2.894,3.830715418,3.47200489,n,n,,
+mp-769571,[],Ba2Ta2O7,2.9229,3.66838336,2.681072235,?,?,"10.1021/cm803145n, 10.1107/S2052520617001123","synthesized as a precursor and mentioned of matching XRD patterns, but no known characterization was found"
+mp-675724,[],BiTeO4,2.1729,3.566110373,2.22099185,n,n,,
+mp-772980,[],Li6Te2O9,1.0665,3.398035049,2.603634834,n,n,,
+mp-1207871,[],VPbO4,0,2.983265877,2.813180447,n,n,,some typos were observed in some papers
+mp-674312,[],Eu2Nb4O13,0,2.965411901,2.178423405,n,n,,
+mp-756122,[],Cs3TlO3,1.6198,2.919613123,1.286744237,n,n,,
+mp-1207892,[],V3Cd5O12,0,2.863432646,2.356699944,n,n,,
+mp-756724,[],Lu2Nb2O7,0,2.785205841,0.052866615,?,?,10.1143/JPSJ.73.2829,paper mentioned the use of Lu2Nb2O7 specific heat data but no source was given
+mp-981103,[181060],Sr3CdO4,0.5407,2.696375608,0.611816585,n,n,,
+mp-1102981,[181905],Rb8SbO3,0,2.593833447,-0.022998758,n,n,,
+mp-1198567,[421518],Sr25Ti39O103,1.9422,2.533508062,2.121557713,n,n,,
+mp-1040472,[],KWO3,0,2.532630682,-0.024491392,?,?,10.1002/anie.201701732,minority phase
+mp-1201432,[421519],Sr15Ti23O61,1.8439,2.522950888,2.127865553,n,n,,
+mp-773070,[],KNb2O5,0,2.507287741,1.282483697,n,n,,
+mp-1197629,[421516],Sr3Ti5O13,1.8854,2.505575418,2.116045713,n,n,,
+mp-1202462,[421517],Sr5Ti8O21,1.8658,2.482171774,2.118335962,n,n,,
+mp-1197010,[421515],Sr5Ti9O23,1.8845,2.463751554,1.98124826,n,n,,
+mp-1224074,[],K6Nb11O30,0,2.454825163,1.956100106,n,n,,closest stoichiometry is K6Nb10.88O30 on ICSD
+mp-674522,[],K6U4O15,1.3949,2.353691578,2.104771852,n,n,,
+mp-776763,[],Ti3(WO6)2,2.3785,2.269057274,0.501391828,n,n,,
+mp-1187578,[],YbNbO3,0,2.255255699,0.067190073,n,n,,
+mp-1018032,[181059],SrCdO2,0.0182,2.176425934,0.240763038,n,n,,
+mp-1202132,[421520],Sr5Ti7O19,1.8208,2.10163188,1.582680106,n,n,,
+mp-674350,[],TiPb9O11,1.7973,2.097881079,1.275354862,n,n,,
+mp-753320,[],RbV4O10,0,2.090283632,1.478910089,n,n,,
+mp-1103058,[181904],Rb8AsO3,0,1.968994617,5.69E-05,n,n,,
+mp-1232326,[],La2AuO4,0,1.86804533,-0.00576181,n,n,,
+mp-1102223,[181898],K8SbO3,0,1.73592484,0.028414257,n,n,,
+mp-756148,[],Sm2Pt2O7,1.1981,1.45188117,1.328195572,n,n,,
+mp-755293,[],Sr4Sb2O,0.98,1.443984032,1.021724582,?,?,10.1002/zaac.202100363,ref 3 is a paper on Sr2Sb. No other source was provided for the correction from Sr2Sb to Sr4Sb2O
+mp-1096838,[],Ba(AgO)2,1.7273,1.427763581,1.388744354,n,n,,
+mp-1200359,[422749],Na12(CuO2)7,0,1.067886233,0.449645907,n,n,,
+mp-767432,[],Sr16V8O31,0.4336,0.903897822,-0.012364276,?,?,10.1016/0025-5408(92)90225-O,might be oxygen deficient Sr2VO4
+mp-755102,[],K6Cr2O9,1.0219,0.752313912,0.554808617,n,n,,
+mp-1095551,[181897],K8AsO3,0,0.631836474,0.036824815,n,n,,
+mp-1021659,[],K2CuO2,0,0.439506173,0.000289977,?,?,"https://www.proquest.com/docview/304271568?pq-origsite=gscholar&fromopenview=true, http://www.irphouse.com/ijpa/IJPAv3n2__7.pdf","a thesis and a paper was found that claimed to have synthesized K2CuO2, but the former did not specify whether it is the nominal composition (since it was used as a precursor), whereas the latter only mentioned the formation was confirmed by XRD without including the reference pattern number or XRD figure"
+mp-1185561,[],CsSbO3,0,0.387745291,0.063621454,n,n,10.1016/j.solidstatesciences.2006.05.017,the paper discredit previous synthesis of CsSbO3
+mp-554545,[161105],Bi2Os2O7,0,0.333509117,0.001920827,n,n,,
+mp-1185009,[],KOsO3,0,0.294941157,0.016708277,?,?,,abstract from APS meeting mentioned the high pressure synthesis of KOsO3
+mp-1208337,[],TcAgO2,0,0.284149617,-0.026060425,n,n,,
+mp-774805,[],Na6Mn7O10,0.1197,0.196531355,0.004883476,n,n,,
+mp-1186220,[],NbFeO3,0,0.111963391,-0.038559213,?,?,http://imet-uran.ru/files/Mansurova_avtoreferat.pdf,translation issue: russian thesis
+mp-1096930,[],Cu(AgO)2,0,0.105175167,-0.011528224,n,n,,
+mp-863399,[],V18Cu20O57,0.0969,0.090135247,0.007498182,n,n,,
+mp-561221,[155505],TlCr3O8,1.8267,0.081360817,0.301044881,?,?,10.1103/PhysRevB.73.184101,"paper mentioned TlCr3O8 has been synthesized, but no reference nor experimental/structure characterization have been provided"
+mp-1217808,[],V30Cu34O95,0.0376,0.077744871,-0.003170021,n,n,,closest stoichiometry is Cu6.78V6O18.78 on ICSD
+mp-767269,[],Ga7(Fe3O8)3,1.7148,0.069507509,-0.013594709,n,n,,
+mp-774428,[],K3V14O28,0,0.066648066,-0.009487651,n,n,,
+mp-1187759,[],Y2Co2O5,0,0.064836591,-0.017511353,n,n,,
+mp-973123,[],ScPdO3,0,0.057388339,0.013720475,n,n,,
+mp-1223708,[],K2Mo8O13,0,0.040322606,0.014882527,n,n,,
+mp-1100777,[],VTeO3,0,0.032430802,-0.005358435,n,n,,
+mp-781595,[],CoTe2O5,2.5023,0.032412317,-0.000359334,n,n,,
+mp-758139,[],Sr21Co14O43,0,0.013019804,-0.004768051,n,n,10.1103/PhysRevB.74.174417,a series of other Sr3Co2Ox where 5.64<x<6.6 has been synthesized
+mp-685341,[],Bi16Ru16O55,0,0.009477425,-0.004926063,n,n,,closest stoichiometry is Bi2Ru2O6.92 on ICSD
+mp-867920,[],K2Rh2O5,0,-0.006105985,-0.001458734,n,n,,closest stoichiometry is Cu6.78V6O18.78 on ICSD
+mp-1223388,[],Na11(Ru4O9)4,0,-0.025345054,-0.020609133,n,n,10.1016/j.jssc.2005.10.016,Na2.7Ru4O9 has been synthesized
+mp-768716,[],Rb17Fe5O16,1.8478,-0.035752263,0.492345899,n,n,,
+mp-757454,[],Mn6PbO12,0,-0.043921854,-0.022039168,n,n,,
+mp-1206526,[],Nd2CoO4,0,-0.053620022,0.052875124,?,?,10.1016/j.jssc.2014.03.012,cannot find the full text of reference 31 to verify
+mp-1147775,[],Ba2OsO4,0,-0.061616857,-0.008291535,n,n,,
